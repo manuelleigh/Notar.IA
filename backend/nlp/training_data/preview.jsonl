@@ -1,0 +1,500 @@
+{"text": "El compareciente juan jiménez fernández, identificado con dni 21819600, con domicilio en avenida angamos 3911, rímac, lima, moquegua.", "entities": [[17, 39, "PERSONA"], [62, 70, "DNI"], [89, 132, "DIRECCION"]]}
+{"text": "La empresa Lima Norte Desarrollos S.A., identificada con RUC N° 20940781618, con domicilio en Calle Panamericana Sur 6025, El Agustino, Trujillo, Tacna.", "entities": [[11, 38, "EMPRESA"], [64, 75, "RUC"], [94, 151, "DIRECCION"]]}
+{"text": "Vanessa Castro Cárdenas, en representación de la empresa Proyectos Lima Norte S.C.R.L., identificada con RUC 10764835030.", "entities": [[0, 23, "PERSONA"], [57, 86, "EMPRESA"], [109, 120, "RUC"]]}
+{"text": "El almacén ubicado en Manzana La Marina 9677, Breña, Huancayo, Junín, distrito de San Borja, provincia de Tacna, departamento de Loreto.", "entities": [[3, 10, "INMUEBLE"], [22, 68, "DIRECCION"], [82, 91, "DISTRITO"], [106, 111, "PROVINCIA"], [129, 135, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de 2.500.58 soles.", "entities": [[31, 45, "MONTO"]]}
+{"text": "Se efectuará un pago de 3.000 dólares mediante transferencia a 1489325288095701 (BBVA).", "entities": [[24, 37, "MONTO"], [63, 79, "CUENTA_BANCARIA"], [81, 85, "BANCO"]]}
+{"text": "El plazo del contrato será de 5 años contados a partir de la firma.", "entities": [[30, 36, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 5%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "La penalidad aplicable será de 10% del monto total, acumulativa por cada periodo incumplido.", "entities": [[31, 50, "PENALIDAD"]]}
+{"text": "Durante el plazo establecido, las partes cumplirán sus obligaciones.", "entities": []}
+{"text": "El importe a pagar será de quinientos (S/. 500.00) soles.", "entities": [[27, 37, "MONTO"]]}
+{"text": "El  compareciente  Paola  Martínez  Escobar,  identificado  con  DNI  81080132,  con  domicilio  en  Pasaje  Los  Álamos  7986,  Jesús  María,  Huancayo,  Apurímac.", "entities": [[19, 36, "PERSONA"], [70, 78, "DNI"], [101, 155, "DIRECCION"]]}
+{"text": "Distribuciones Pacífico S.A.C., identificada con número de RUC 10978820812, con sede en Avenida Las Gardenias 1213, Cercado de Lima, Trujillo, La Libertad.", "entities": [[0, 30, "EMPRESA"], [63, 74, "RUC"], [88, 154, "DIRECCION"]]}
+{"text": "claudia herrera jiménez, quien representa a la empresa importaciones perú global s.a.c., registrada con ruc 20991183842.", "entities": [[0, 23, "PERSONA"], [55, 87, "EMPRESA"], [108, 119, "RUC"]]}
+{"text": "Se trata de un local comercial situado en Alameda Brasil 2300, Comas, Ayacucho, en el distrito de Ate, provincia de Cusco, departamento de Huánuco.", "entities": [[15, 30, "INMUEBLE"], [42, 78, "DIRECCION"], [98, 101, "DISTRITO"], [116, 121, "PROVINCIA"], [139, 146, "DEPARTAMENTO"]]}
+{"text": "El monto total del préstamo asciende a 10.400.00 soles.", "entities": [[39, 54, "MONTO"]]}
+{"text": "Se efectuará un pago de 4.750.00 soles mediante transferencia a 98262045053315 (BCP).", "entities": [[24, 38, "MONTO"], [64, 78, "CUENTA_BANCARIA"], [80, 83, "BANCO"]]}
+{"text": "El  presente  contrato  tendrá  una  duración  de  3  meses  desde  la  fecha  de  suscripción.", "entities": [[51, 54, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 5%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Los Olivos, a los 27-5-17.", "entities": [[0, 10, "CIUDAD"], [18, 25, "FECHA"]]}
+{"text": "El  monto  total  del  presente  contrato  es  de  4.200.61  soles,  el  cual  deberá  ser  cancelado  en  un  plazo  de  6  meses.", "entities": [[51, 61, "MONTO"]]}
+{"text": "Durante el plazo establecido, las partes cumplirán sus obligaciones .", "entities": []}
+{"text": "El monto total del contrato asciende a mil doscientos (US$ 1.200.00) dólares.", "entities": [[39, 53, "MONTO"]]}
+{"text": "El compareciente Daniela Huamán Salazar, identificado con DNI 82366299, con domicilio en Calle Los Cedros 9077, Miraflores, Piura, Huancavelica.", "entities": [[17, 39, "PERSONA"], [62, 70, "DNI"], [89, 143, "DIRECCION"]]}
+{"text": "La empresa Constructora Pachacamac S.A., identificada con RUC N° 10200379176, con domicilio en Alameda Las Gardenias N° 3285, distrito de Independencia, provincia de Huancayo, departamento de Loreto.", "entities": [[11, 39, "EMPRESA"], [65, 76, "RUC"], [95, 198, "DIRECCION"]]}
+{"text": "El señor Manuel Huamán Cabrera, actuando en nombre de la empresa Grupo Amazonía del Perú S.A.A., con RUC 17895798687.", "entities": [[9, 30, "PERSONA"], [65, 95, "EMPRESA"], [105, 116, "RUC"]]}
+{"text": "El  local  comercial  ubicado  en  Psje.  Petit  Thouars  8949,  Santiago  de  Surco,  Cusco,  Áncash,  distrito  de  La  Molina,  provincia  de  Cusco,  departamento  de  Tacna.", "entities": [[4, 11, "INMUEBLE"], [35, 93, "DIRECCION"], [118, 122, "DISTRITO"], [172, 177, "DEPARTAMENTO"]]}
+{"text": "La  cantidad  acordada  para  el  contrato  es  de  10.400.84  dólares.", "entities": [[52, 63, "MONTO"]]}
+{"text": "Los  pagos  deberán  hacerse  en  S/.  7.900.79  a  la  cuenta  bancaria  6706562729806  del  Interbank.", "entities": [[34, 39, "MONTO"], [74, 87, "CUENTA_BANCARIA"], [94, 103, "BANCO"]]}
+{"text": "El presente contrato tendrá una duración de 4 meses desde la fecha de suscripción.", "entities": [[44, 51, "PLAZO"]]}
+{"text": "El préstaom devengará un interés anual del 2%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Firmado en Arequipa, el 7/4/96.", "entities": [[11, 19, "CIUDAD"], [24, 30, "FECHA"]]}
+{"text": "Las partes acuerdan un monto de 750.87 soles, sujeto a una penalidad de S/ 100.00 en caso de incumplimiento.", "entities": [[32, 44, "MONTO"], [72, 81, "PENALIDAD"]]}
+{"text": "Las partes se reúnen virtualmente, sin indicar ciudad.", "entities": []}
+{"text": "El  importe  a  pagar  será  de  doscientos  (US$  200 .00)  dólares .", "entities": [[33, 43, "MONTO"]]}
+{"text": "La empresa Omega Importaciones S.R.L., identificada con RUC N° 17083136783, con domicilio en Mz. Los Rosales N° 8141, distrito de Chorrillos, provincia de Lima, departamento de Arequipa.", "entities": [[11, 37, "EMPRESA"], [63, 74, "RUC"], [93, 185, "DIRECCION"]]}
+{"text": "Raquel Chávez Aguilar quien representa a la empresa Corporación Sierra Azul del Perú E.I.R.L. registrada con RUC 10337498941.", "entities": [[0, 21, "PERSONA"], [52, 93, "EMPRESA"], [113, 124, "RUC"]]}
+{"text": "El oficina ubicado en Avenida Panamericana Sur N° 300, distrito de El Agustino, provincia de Piura, departamento de Loreto, distrito de Chorrillos, provincia de Chiclayo, departamento de Cajamarca.", "entities": [[3, 10, "INMUEBLE"], [22, 122, "DIRECCION"], [136, 146, "DISTRITO"], [161, 169, "PROVINCIA"], [187, 196, "DEPARTAMENTO"]]}
+{"text": "El monto total del préstamo asciende a 6.800.00 dólares.", "entities": [[39, 55, "MONTO"]]}
+{"text": "El pago se realizará por el monto de usd 4.200 a la cuenta n° 499-09133412328 del banco scotiabank.", "entities": [[37, 46, "MONTO"], [62, 77, "CUENTA_BANCARIA"], [88, 98, "BANCO"]]}
+{"text": "El plazo del contrato será de 1 año contados a partir de la firma.", "entities": [[30, 35, "PLAZO"]]}
+{"text": "El prétsamo devengará un interés anual del 12%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "Rímac, Perú — 4 de agosto de 2013.", "entities": [[0, 5, "CIUDAD"], [14, 33, "FECHA"]]}
+{"text": "El arrendatario abonará S/ 1.800 cada mes, pudiendo aplicarse un interés moratorio del 8%.", "entities": [[24, 32, "MONTO"], [87, 89, "INTERES"]]}
+{"text": "Durante el plazo establecido, las partes cumplirán sus obligaciones.", "entities": []}
+{"text": "Las partes fijan como precio cinco mil seiscientos (US$ 5.600.00) dólares.", "entities": [[29, 50, "MONTO"]]}
+{"text": "El señor Teresa Pérez Ortiz, con DNI N° 87603859, domiciliado en Mz. Los Rosales 7342, San Isidro, Huánuco.", "entities": [[9, 27, "PERSONA"], [40, 48, "DNI"], [65, 106, "DIRECCION"]]}
+{"text": "Transportes Sierra Azul S.A.C., identificada con número de RUC 20127484677, con sede en Jirón Los Álamos 9131, San Borja, Callao.", "entities": [[0, 30, "EMPRESA"], [63, 74, "RUC"], [88, 128, "DIRECCION"]]}
+{"text": "María Aguilar Ticona en representación de la empresa Desarrollos Sur Export del Perú S.C. identificada con RUC 20753396360.", "entities": [[0, 20, "PERSONA"], [53, 89, "EMPRESA"], [111, 122, "RUC"]]}
+{"text": "Se trata de un oficina situado en Avenida Los Sauces 7586, Miraflores, Lambayeque, en el distrito de San Borja, provincia de Arequipa, departamento de Loreto.", "entities": [[15, 22, "INMUEBLE"], [34, 81, "DIRECCION"], [101, 110, "DISTRITO"], [125, 133, "PROVINCIA"], [151, 157, "DEPARTAMENTO"]]}
+{"text": "El  importe  total  a  pagar  es  de  2.500.50  soles.", "entities": [[38, 48, "MONTO"]]}
+{"text": "El pago se realizará por el monto de S/ 350.91 a la cuenta N° 0050455623869 del banco Interbank.", "entities": [[37, 46, "MONTO"], [62, 75, "CUENTA_BANCARIA"], [86, 95, "BANCO"]]}
+{"text": "El plazo del contrato será de 120 días contados a partir de la firma.", "entities": [[30, 38, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 20%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "Huancayo, a los en fecha 7 de mayo de 2024.", "entities": [[0, 8, "CIUDAD"], [16, 42, "FECHA"]]}
+{"text": "Ante el incumplimiento del plazo pactado de 2 años, se impondrá una penalidad de S/ 500.00.", "entities": [[44, 50, "PLAZO"], [81, 90, "PENALIDAD"]]}
+{"text": "Las partes se reúnen virtualmente, sin indicar ciudad.", "entities": []}
+{"text": "El importe a pagar será de tres mil (S/ 3.000.00) soles.", "entities": [[27, 35, "MONTO"]]}
+{"text": "Luisa Quispe Valverde, identificado con DNI N° 45171236, con domicilio en Manzana Petit Thouars 1579, La Molina, Huánuco.", "entities": [[0, 21, "PERSONA"], [47, 55, "DNI"], [74, 120, "DIRECCION"]]}
+{"text": "Desarrollos Costa Verde del Perú S.A.C., con RUC 10746120047, y domicilio legal en Avenida Brasil N° 3946, distrito de Ate, provincia de Cusco, departamento de La Libertad.", "entities": [[0, 39, "EMPRESA"], [49, 60, "RUC"], [83, 171, "DIRECCION"]]}
+{"text": "José Antonio Serrano Campos, en representación de la empresa Omega Tecnologías S.A.A., identificada con RUC 10585064317.", "entities": [[0, 27, "PERSONA"], [61, 85, "EMPRESA"], [108, 119, "RUC"]]}
+{"text": "El  casa  ubicado  en  Psje.  Las  Orquídeas  2517,  Villa  El  Salvador,  Lima,  Huánuco,  distrito  de  San  Borja,  provincia  de  Tacna,  departamento  de  Huánuco.", "entities": [[4, 8, "INMUEBLE"], [23, 80, "DIRECCION"], [82, 89, "DEPARTAMENTO"], [106, 111, "DISTRITO"], [134, 139, "PROVINCIA"]]}
+{"text": "La cantidad acordada para el contrato es de S/ 150.", "entities": [[44, 50, "MONTO"]]}
+{"text": "Los pagos deberán hacerse en 4.200.38 dólares a la cuenta bancaria 007-66177115921 del Scotiabank.", "entities": [[29, 45, "MONTO"], [67, 82, "CUENTA_BANCARIA"], [87, 97, "BANCO"]]}
+{"text": "El plazo del contrato será de 60 meses contados a partir de la firma.", "entities": [[30, 38, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 12%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "Lince,  Perú  —  9/11/15.", "entities": [[0, 5, "CIUDAD"], [17, 24, "FECHA"]]}
+{"text": "Las partes acuerdan un monto de 4.750.17 dólares, sujeto a una penalidad de S/ 100.00 en caso de incumplimiento.", "entities": [[32, 48, "MONTO"], [76, 85, "PENALIDAD"]]}
+{"text": "Desde el inicio del contrato las partes acuerdan las condiciones.", "entities": []}
+{"text": "el monto total del contrato asciende a diez mil cuatrocientos (s/. 10.400.00) soles.", "entities": [[39, 61, "MONTO"]]}
+{"text": "Carmen  Núñez  Ramírez,  quien  representa  a  la  empresa  Soluciones  Costa  Verde  del  Perú  S.A.A.,  registrada  con  RUC  17641605297.", "entities": [[0, 15, "PERSONA"], [60, 97, "EMPRESA"], [128, 139, "RUC"]]}
+{"text": "El departamento ubicado en Manzana Los Sauces 3276, Lince, Tumbes, distrito de San Borja, provincia de Trujillo, departamento de Ayacucho.", "entities": [[3, 15, "INMUEBLE"], [27, 65, "DIRECCION"], [79, 88, "DISTRITO"], [103, 111, "PROVINCIA"], [129, 137, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de 6.300 dólares.", "entities": [[31, 44, "MONTO"]]}
+{"text": "Los pagos deberán hacerse en US$ 2.000.00 a la cuenta bancaria 5411998679807 del BCP.", "entities": [[29, 41, "MONTO"], [63, 76, "CUENTA_BANCARIA"], [81, 84, "BANCO"]]}
+{"text": "La  vigencia  del  contrato  es  de  24  meses,  iniciando  el  día  de  su  firma .", "entities": [[37, 41, "PLAZO"]]}
+{"text": "El préstaom devengará un interés anual del 3%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "En la ciudad de San Juan de Lurigancho, a los a los 11 días del mes de febrero del año 2016.", "entities": [[16, 38, "CIUDAD"], [46, 91, "FECHA"]]}
+{"text": "Si la obligación por 6.800 dólares no es satisfecha, se generará una penalidad de 10% del monto total.", "entities": [[21, 34, "MONTO"], [82, 101, "PENALIDAD"]]}
+{"text": "las partes se reúnen virtualmente, sin indicar ciudad.", "entities": []}
+{"text": "La suma acordada es de mil doscientos (US$ 1.200.00) dólares.", "entities": [[23, 37, "MONTO"]]}
+{"text": "Ernesto López Serrano, portador del DNI 29622292, con residencia en Mz. Arequipa 6831, Lince, Lima.", "entities": [[0, 21, "PERSONA"], [40, 48, "DNI"], [68, 98, "DIRECCION"]]}
+{"text": "La empresa Exportaciones Amazonía del Perú S.A.A., identificada con RUC N° 17623924075, con domicilio en Manzana Panamericana Norte N° 1780, distrito de Independencia, provincia de Tacna, departamento de Ayacucho.", "entities": [[11, 49, "EMPRESA"], [75, 86, "RUC"], [105, 212, "DIRECCION"]]}
+{"text": "Raúl Romero García, quien representa a la empresa Soluciones Leigh S.A.A., registrada con RUC 10515220472.", "entities": [[0, 18, "PERSONA"], [50, 73, "EMPRESA"], [94, 105, "RUC"]]}
+{"text": "El casa ubicado en Pasaje Los Rosales 7589, Santiago de Surco, Loreto, distrito de Ate, provincia de Lima, departamento de Puno .", "entities": [[3, 7, "INMUEBLE"], [19, 69, "DIRECCION"], [83, 86, "DISTRITO"], [101, 105, "PROVINCIA"], [123, 127, "DEPARTAMENTO"]]}
+{"text": "El impotre total a pagar es de us$ 6.800.20.", "entities": [[31, 43, "MONTO"]]}
+{"text": "Se  efectuará  un  pago  de  S/  2.000.42  mediante  transferencia  a  319-52058527-7-22  (BCP).", "entities": [[29, 33, "MONTO"], [71, 88, "CUENTA_BANCARIA"], [91, 94, "BANCO"]]}
+{"text": "La vigencai del contrato es de 48 meses iniciando el día de su firma.", "entities": [[31, 39, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 10%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "En la ciudad de Jesús María, a los 23 agosto 2006.", "entities": [[16, 27, "CIUDAD"], [35, 49, "FECHA"]]}
+{"text": "La penalidad aplicable será de S/ 350.00 acumulativa por cada periodo incumplido.", "entities": [[31, 40, "PENALIDAD"]]}
+{"text": "Desde  el  inicio  del  contrato  las  partes  acuerdan  las  condiciones.", "entities": []}
+{"text": "La  suma  acordada  es  de  setecientos  cincuenta  (USD  750.00)  dólares.", "entities": [[28, 41, "MONTO"]]}
+{"text": "Raquel Vargas Martínez, identificado con DNI N° 92856543, con domicilio en Avenida Arequipa 3148, Pueblo Libre, La Libertad.", "entities": [[0, 22, "PERSONA"], [48, 56, "DNI"], [75, 123, "DIRECCION"]]}
+{"text": "Distribuciones  Lima  Norte  S.A.,  con  RUC  17551884422,  y  domicilio  legal  en  Psje.  Los  Sauces  3773,  Barranco,  Trujillo,  Áncash.", "entities": [[0, 29, "EMPRESA"], [46, 57, "RUC"], [85, 134, "DIRECCION"]]}
+{"text": "Luis León Meza, en representación de la empresa Consultores Pacífico del Perú S.R.L., identificada con RUC 10778528922.", "entities": [[0, 14, "PERSONA"], [48, 84, "EMPRESA"], [107, 118, "RUC"]]}
+{"text": "El local comercial ubicado en Jirón Los Rosales N° 9124, distrito de Comas, provincia de Cusco, departamento de Puno, distrito de Villa El Salvador, provincia de Tacna, departamento de Arequipa.", "entities": [[3, 18, "INMUEBLE"], [30, 116, "DIRECCION"], [130, 147, "DISTRITO"], [162, 167, "PROVINCIA"], [185, 193, "DEPARTAMENTO"]]}
+{"text": "El imporet total a pagar es de S/ 10.700.00.", "entities": [[31, 43, "MONTO"]]}
+{"text": "Se efectuará un pago de USD 1.500 mediante transferencia a 47102767735925 (Scotiabank).", "entities": [[24, 33, "MONTO"], [59, 73, "CUENTA_BANCARIA"], [75, 85, "BANCO"]]}
+{"text": "El plazo del contrato será de 24 meses contados a partir de la firma.", "entities": [[30, 38, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 12%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "En la ciudad de Ucayali, a los en fecha 17 de agosto de 2005.", "entities": [[16, 23, "CIUDAD"], [31, 60, "FECHA"]]}
+{"text": "La parte deudora pagará 200 dólares en un periodo máximo de 12 meses, aplicándose un interés del 20%.", "entities": [[24, 35, "MONTO"], [60, 68, "PLAZO"], [97, 100, "INTERES"]]}
+{"text": "Conforme a lo pactado, el contrato entra en vigencia inmediatamente.", "entities": []}
+{"text": "Las partes fijan como precio quinientos (S/ 500.00) soles.", "entities": [[29, 39, "MONTO"]]}
+{"text": "Juan Carlos Díaz León, portador del DNI 57872982, con residencia en Psje. Panamericana Norte 5318, Magdalena del Mar, Piura.", "entities": [[0, 21, "PERSONA"], [40, 48, "DNI"], [68, 123, "DIRECCION"]]}
+{"text": "Alberto Serrano Tello, quien representa a la empresa Tecnologías Sur Export del Perú S.R.L., registrada con RUC 20865278585.", "entities": [[0, 21, "PERSONA"], [53, 91, "EMPRESA"], [112, 123, "RUC"]]}
+{"text": "Se trata de un oficina situado en Psje. Los Álamos 5814, Ate, Piura, Huancavelica, en el distrito de El Agustino, provincia de Tacna, departamento de La Libertad.", "entities": [[15, 22, "INMUEBLE"], [34, 81, "DIRECCION"], [101, 112, "DISTRITO"], [127, 132, "PROVINCIA"], [150, 161, "DEPARTAMENTO"]]}
+{"text": "El monto total del préstamo asciende a 2.000.66 soles.", "entities": [[39, 53, "MONTO"]]}
+{"text": "El pago se realizará por el monto de 1.000.00 soles a la cuenta N° 57120826773454 del banco BCP.", "entities": [[37, 51, "MONTO"], [67, 81, "CUENTA_BANCARIA"], [92, 95, "BANCO"]]}
+{"text": "El plazo del contrato será de 60 meses contados a partir de la firma.", "entities": [[30, 38, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 8%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Firamdo en San Juan de Lurigancho, el 28 de marzo de 2026.", "entities": [[11, 33, "CIUDAD"], [38, 57, "FECHA"]]}
+{"text": "La parte deudroa pagará S/. 8.500.47 en un periodo máximo de 48 meses, aplicándose un interés del 12%.", "entities": [[24, 36, "MONTO"], [61, 69, "PLAZO"], [98, 101, "INTERES"]]}
+{"text": "Hasta la fecha no se ha realizado ninguna modificación.", "entities": []}
+{"text": "El monto total del contrato asciende a tres mil (S/ 3.000.00) soles.", "entities": [[39, 47, "MONTO"]]}
+{"text": "El señor Julián Salazar Cárdenas, con DNI N° 93327279, domiciliado en Psje. Los Cedros 9098, Pueblo Libre, Tacna, San Martín.", "entities": [[9, 32, "PERSONA"], [45, 53, "DNI"], [70, 124, "DIRECCION"]]}
+{"text": "Grupo Pacífico del Perú S.R.L., identificada con número de RUC 20139718707, con sede en Jr. Los Sauces N° 6906, distrito de Chorrillos, provincia de Lima, departamento de Moquegua.", "entities": [[0, 30, "EMPRESA"], [63, 74, "RUC"], [88, 179, "DIRECCION"]]}
+{"text": "El  almacén  ubicado  en  Pasaje  Los  Sauces  N°  6314,  distrito  de  Los  Olivos,  provincia  de  Trujillo,  departamento  de  Lima,  distrito  de  San  Borja,  provincia  de  Piura,  departamento  de  Callao.", "entities": [[4, 11, "INMUEBLE"], [26, 112, "DIRECCION"], [151, 156, "DISTRITO"], [179, 184, "PROVINCIA"], [205, 211, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de S/ 300.22.", "entities": [[31, 40, "MONTO"]]}
+{"text": "Los pagos deberán hacerse en US$ 9.600.00 a la cuenta bancaria 9953428364408 del Interbank.", "entities": [[29, 41, "MONTO"], [63, 76, "CUENTA_BANCARIA"], [81, 90, "BANCO"]]}
+{"text": "La vigencia del contrato es de 48 meses, iniciando el día de su firma.", "entities": [[31, 39, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 5%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "En la ciudad de Piura, a los 8-7-03.", "entities": [[16, 21, "CIUDAD"], [29, 35, "FECHA"]]}
+{"text": "El precio final asciende a 1.200.58 soles, que será pagado dentro de un plazo de 5 años.", "entities": [[27, 41, "MONTO"], [81, 87, "PLAZO"]]}
+{"text": "Desde el inicio del contrato las partes acuerdan las condiciones.", "entities": []}
+{"text": "Las partes fijan como precio mil quinientos (US$ 1.500.00) dólares.", "entities": [[29, 43, "MONTO"]]}
+{"text": "El señor Gabriela Cárdenas Herrera, con DNI N° 60932048, domiciliado en Malecón Las Gardenias N° 6941, distrito de San Juan de Lurigancho, provincia de Cusco, departamento de Callao.", "entities": [[9, 34, "PERSONA"], [47, 55, "DNI"], [72, 181, "DIRECCION"]]}
+{"text": "El señor Carlos Alberto Cortez Campos, actuando en nombre de la empresa Exportaciones Leigh del Perú E.I.R.L., con RUC 17621182339.", "entities": [[9, 37, "PERSONA"], [72, 109, "EMPRESA"], [119, 130, "RUC"]]}
+{"text": "El  departamento  ubicado  en  Avenida  Los  Cedros  6313,  La  Molina,  Tacna,  Loreto,  distrito  de  Villa  María  del  Triunfo,  provincia  de  Lima,  departamento  de  Tacna.", "entities": [[4, 16, "INMUEBLE"], [31, 79, "DIRECCION"], [104, 123, "DISTRITO"], [148, 152, "PROVINCIA"]]}
+{"text": "El pago se realizará por el monto de 5.200.00 dólares a la cuenta N° 9261429396856 del banco BCP.", "entities": [[37, 53, "MONTO"], [69, 82, "CUENTA_BANCARIA"], [93, 96, "BANCO"]]}
+{"text": "El plazo del conrtato será de 5 meses contados a partir de la firma.", "entities": [[30, 37, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 15%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "En la ciudad de Barranco, a los 23-4-2013.", "entities": [[16, 24, "CIUDAD"], [32, 41, "FECHA"]]}
+{"text": "En caso de retraso, se impondrá una penalidad equivalente a s/ 350.00.", "entities": [[60, 69, "PENALIDAD"]]}
+{"text": "Conforme a lo pactado, el contrato entra en vigencia inmediatamente .", "entities": []}
+{"text": "Las partes fijan como precio diez mil cuatrocientos (S/ 10.400.00) soles.", "entities": [[29, 51, "MONTO"]]}
+{"text": "Mónica Cárdenas Gutiérrez, portador del DNI 37993712, con residencia en Calle Arequipa N° 6583, distrito de San Juan de Miraflores, provincia de Huancayo, departamento de Ica.", "entities": [[0, 25, "PERSONA"], [44, 52, "DNI"], [72, 174, "DIRECCION"]]}
+{"text": "Exportaciones Sierra Azul del Perú S.C.R.L., con RUC 20935646519, y domicilio legal en Jirón Las Gardenias 9039, Magdalena del Mar, Amazonas.", "entities": [[0, 43, "EMPRESA"], [53, 64, "RUC"], [87, 140, "DIRECCION"]]}
+{"text": "Ana María Jiménez Gutiérrez, en representación de la empresa Representaciones Costa Verde del Perú S.A.A., identificada con RUC 20886805891.", "entities": [[0, 27, "PERSONA"], [61, 105, "EMPRESA"], [128, 139, "RUC"]]}
+{"text": "Se trata de un deaprtamento situado en Av. Brasil 4339, Los Olivos, Tumbes, en el distrito de Ate, provincia de Trujillo, departamento de Lima.", "entities": [[39, 74, "DIRECCION"], [94, 97, "DISTRITO"], [112, 120, "PROVINCIA"], [122, 134, "INMUEBLE"], [138, 142, "DEPARTAMENTO"]]}
+{"text": "La cantidad acordada para el contrato es de 1.500.00 soles.", "entities": [[44, 58, "MONTO"]]}
+{"text": "Los pagos deberán hacerse en s/ 7.400 a la cuenta bancaria 5123828258673 del bcp.", "entities": [[29, 37, "MONTO"], [59, 72, "CUENTA_BANCARIA"], [77, 80, "BANCO"]]}
+{"text": "El  presente  contrato  tendrá  una  duración  de  60  meses  desde  la  fecha  de  suscripción.", "entities": [[51, 55, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 20%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "En la ciudad de San Isidro, a los 13-10-2015.", "entities": [[16, 26, "CIUDAD"], [34, 44, "FECHA"]]}
+{"text": "El arrendatario abonará S/. 5.200.20 cada mes, pudiendo aplicarse un interés moratorio del 8%.", "entities": [[24, 36, "MONTO"], [91, 93, "INTERES"]]}
+{"text": "Durante el plazo establecido, las partes cumplirán sus obligaciones.", "entities": []}
+{"text": "Las partes fijan como precio setecientos cincuenta (S/. 750.00) soles.", "entities": [[29, 50, "MONTO"]]}
+{"text": "El compareciente Daniela Campos León, identificado con DNI 77219034, con domicilio en Av. La Marina N° 3783, distrito de Ate, provincia de Piura, departamento de Cajamarca.", "entities": [[17, 36, "PERSONA"], [59, 67, "DNI"], [86, 171, "DIRECCION"]]}
+{"text": "Corporación Sierra Azul del Perú S.C., identificada con número de RUC 10407451713, con sede en Jirón Las Orquídeas 9732, Independencia, Tacna.", "entities": [[0, 37, "EMPRESA"], [70, 81, "RUC"], [95, 141, "DIRECCION"]]}
+{"text": "El señor Diana Herrera León, actuando en nombre de la empresa Soluciones Leigh del Perú S.R.L., con RUC 10232536729.", "entities": [[9, 27, "PERSONA"], [62, 94, "EMPRESA"], [104, 115, "RUC"]]}
+{"text": "El departamento ubicado en Avenida Los Pinos 7611, Villa María del Triunfo, Arequipa, distrito de La Molina, provincia de Trujillo, departamento de Lambayeque.", "entities": [[3, 15, "INMUEBLE"], [27, 84, "DIRECCION"], [98, 107, "DISTRITO"], [122, 130, "PROVINCIA"], [148, 158, "DEPARTAMENTO"]]}
+{"text": "El impotre total a pagar es de S/ 8.500.53.", "entities": [[31, 42, "MONTO"]]}
+{"text": "El presente contrato tendrá una duración de 90 días desde la fecha de suscripción.", "entities": [[44, 51, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 10%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "Cercado de Lima, Perú — 19/9/99.", "entities": [[0, 15, "CIUDAD"], [24, 31, "FECHA"]]}
+{"text": "El arrendatario abonará 800.00 dólares cada mes, pudiendo aplicarse un interés moratorio del 12%.", "entities": [[24, 38, "MONTO"], [93, 96, "INTERES"]]}
+{"text": "Las  partes  se  reúnen  virtualmente,  sin  indicar  ciudad.", "entities": []}
+{"text": "La suma acordada es de cuatro mil doscientos (USD 4.200.00) dólares.", "entities": [[23, 44, "MONTO"]]}
+{"text": "El compareciente María Fernanda Campos Cárdenas, identificado con DNI 82710910, con domicilio en Calle Angamos N° 752, distrito de San Isidro, provincia de Huancayo, departamento de Madre de Dios.", "entities": [[17, 47, "PERSONA"], [70, 78, "DNI"], [97, 195, "DIRECCION"]]}
+{"text": "La cantidad acordada para el contrato es de USD 8.500.00.", "entities": [[44, 56, "MONTO"]]}
+{"text": "Los pagos deberán hacerse en S/. 1.500 a la cuenta bancaria 38320603850506 del Scotiabank.", "entities": [[29, 38, "MONTO"], [60, 74, "CUENTA_BANCARIA"], [79, 89, "BANCO"]]}
+{"text": "La vigencia del contrato es de 120 días iniciando el día de su firma.", "entities": [[31, 39, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 15%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "En la ciudad de Pueblo Libre, a los 22-7-98.", "entities": [[16, 28, "CIUDAD"], [36, 43, "FECHA"]]}
+{"text": "El arrendatario abonará S/. 1.200.00 cada mes, pudiendo aplicarse un interés moratorio del 3%.", "entities": [[24, 36, "MONTO"], [91, 93, "INTERES"]]}
+{"text": "Durante el plazo establecido, las partes cumplirán sus obligaciones.", "entities": []}
+{"text": "La  suma  acordada  es  de  doscientos  (S/.  200.00)  soles.", "entities": [[28, 38, "MONTO"]]}
+{"text": "Juan condori escobar, identificado con dni n° 88317121, con domicilio en av. arequipa n° 3741, distrito de san borja, provincia de trujillo, departamento de la libertad.", "entities": [[0, 20, "PERSONA"], [46, 54, "DNI"], [73, 168, "DIRECCION"]]}
+{"text": "Representaciones Amazonía S.A.C., identificada con número de RUC 17667066253, con sede en Jr. La Marina 4685, Chorrillos, Apurímac.", "entities": [[0, 32, "EMPRESA"], [65, 76, "RUC"], [90, 130, "DIRECCION"]]}
+{"text": "Rosa Navarro Alvarado, en representación de la empresa Sur Export Inversiones S.A.A., identificada con RUC 20985642059.", "entities": [[0, 21, "PERSONA"], [55, 84, "EMPRESA"], [107, 118, "RUC"]]}
+{"text": "El pago se realizará por el monto de 800 dólares a la cuenta N° 292-18515691-5-4 del banco BCP.", "entities": [[37, 48, "MONTO"], [64, 80, "CUENTA_BANCARIA"], [91, 94, "BANCO"]]}
+{"text": "La vigencia del contrato es de 5 años, iniciando el día de su firma.", "entities": [[31, 37, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 8%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Pueblo Libre, a los 20-3-97.", "entities": [[0, 12, "CIUDAD"], [20, 27, "FECHA"]]}
+{"text": "La parte deudora pagará us$ 10.400.21 en un periodo máximo de 6 meses, aplicándose un interés del 5%.", "entities": [[24, 37, "MONTO"], [62, 69, "PLAZO"], [98, 100, "INTERES"]]}
+{"text": "Hasta la fecha no se ha realizado ninguna modificación.", "entities": []}
+{"text": "El monto total del contrato asciende a mil quinientos (S/ . 1 .500 .00) soles .", "entities": [[39, 53, "MONTO"]]}
+{"text": "El señor Luisa Cortez Soto, con DNI N° 15997062, domiciliado en Malecón Panamericana Norte N° 7213, distrito de Magdalena del Mar, provincia de Lima, departamento de Ayacucho.", "entities": [[9, 26, "PERSONA"], [39, 47, "DNI"], [64, 174, "DIRECCION"]]}
+{"text": "Leigh Logística E.I.R.L., con RUC 10614973103, y domicilio legal en Jr. Los Rosales N° 4881, distrito de Santiago de Surco, provincia de Iquitos, departamento de Ayacucho.", "entities": [[0, 24, "EMPRESA"], [34, 45, "RUC"], [68, 170, "DIRECCION"]]}
+{"text": "Raquel Ramírez Gutiérrez en representación de la empresa Servicios Pacífico del Perú S.C. identificada con RUC 17115869380.", "entities": [[0, 24, "PERSONA"], [57, 89, "EMPRESA"], [111, 122, "RUC"]]}
+{"text": "El almacén ubicado en Alameda Las Gardenias 2515, Barranco, Iquitos, Cajamarca, distrito de Jesús María, provincia de Trujillo, departamento de Áncash.", "entities": [[3, 10, "INMUEBLE"], [22, 78, "DIRECCION"], [92, 103, "DISTRITO"], [118, 126, "PROVINCIA"], [144, 150, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de S/ 1.200.50.", "entities": [[31, 42, "MONTO"]]}
+{"text": "Se efetcuará un pago de USD 5.600.85 mediante transferencia a 99911914856467 (BBVA).", "entities": [[24, 36, "MONTO"], [62, 76, "CUENTA_BANCARIA"], [78, 82, "BANCO"]]}
+{"text": "El plazo del contrato será de 5 meses contados a partir de la firma.", "entities": [[30, 37, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 8%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Firmado en Tumbes, el 9-6-2023.", "entities": [[11, 17, "CIUDAD"], [22, 30, "FECHA"]]}
+{"text": "Si la obligación por S/ 200.00 no es satisfecha se generará una penalidad de S/ 350.00.", "entities": [[21, 30, "MONTO"], [77, 86, "PENALIDAD"]]}
+{"text": "Durante  el  plazo  establecido,  las  partes  cumplirán  sus  obligaciones.", "entities": []}
+{"text": "El importe a pagar será de quinientos (S/ 500.00) soles.", "entities": [[27, 37, "MONTO"]]}
+{"text": "Carmen Reyes Flores, identificado con DNI N° 29333346, con domicilio en Manzana Arequipa 245, Pueblo Libre, Cusco, Puno.", "entities": [[0, 19, "PERSONA"], [45, 53, "DNI"], [72, 119, "DIRECCION"]]}
+{"text": "Exportaciones Pachacamac del Perú E.I.R.L., identificada con número de RUC 20910858994, con sede en Calle Los Rosales N° 1871, distrito de Pueblo Libre, provincia de Arequipa, departamento de Ica.", "entities": [[0, 42, "EMPRESA"], [75, 86, "RUC"], [100, 195, "DIRECCION"]]}
+{"text": "El  señor  María  Fernanda  Paredes  Ortiz,  actuando  en  nombre  de  la  empresa  Sierra  Azul  Inversiones  S.C.R.L.,  con  RUC  20609935387.", "entities": [[11, 37, "PERSONA"], [84, 111, "EMPRESA"], [132, 143, "RUC"]]}
+{"text": "Se trata de un local comercial situado en alameda brasil n° 3741, distrito de lince, provincia de trujillo, departamento de tumbes, en el distrito de breña, provincia de chiclayo, departamento de junín.", "entities": [[15, 30, "INMUEBLE"], [42, 130, "DIRECCION"], [150, 155, "DISTRITO"], [170, 178, "PROVINCIA"], [196, 201, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de 5.600 dólares.", "entities": [[31, 44, "MONTO"]]}
+{"text": "Los pagos deberán hacerse en 5.200.00 soles a la cuenta bancaria 52500743292712 del bcp.", "entities": [[29, 43, "MONTO"], [65, 79, "CUENTA_BANCARIA"], [84, 87, "BANCO"]]}
+{"text": "El presente contrato tendrá una duración de 30 días desde la fecha de suscripción .", "entities": [[44, 51, "PLAZO"]]}
+{"text": "El prétsamo devengará un interés anual del 10%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "Los Olivos, Perú — 29 julio 2016.", "entities": [[0, 10, "CIUDAD"], [19, 32, "FECHA"]]}
+{"text": "En caso de retraso, se impondrá una penalidad equivalente a s/ 100.00.", "entities": [[60, 69, "PENALIDAD"]]}
+{"text": "Las partes se reúnen virtualmente sin indicar ciudad.", "entities": []}
+{"text": "El importe a pagar será de setecientos cincuenta (S/ 750.00) soles.", "entities": [[27, 48, "MONTO"]]}
+{"text": "el compareciente alfredo torres salazar, identificado con dni 11739348, con domicilio en jirón petit thouars 6813, san juan de lurigancho, apurímac.", "entities": [[17, 39, "PERSONA"], [62, 70, "DNI"], [89, 147, "DIRECCION"]]}
+{"text": "La empresa Corporación Costa Verde S.C.R.L., identificada con RUC N° 20374470120, con domicilio en Calle Petit Thouars 5223, Breña, Arequipa, Ayacucho.", "entities": [[11, 43, "EMPRESA"], [69, 80, "RUC"], [99, 150, "DIRECCION"]]}
+{"text": "Daniel Ruiz Torres, en representación de la empresa Distribuciones Amazonía del Perú S.A.A., identificada con RUC 10120216979.", "entities": [[0, 18, "PERSONA"], [52, 91, "EMPRESA"], [114, 125, "RUC"]]}
+{"text": "El oficina ubicado en Mz. Arequipa 1137, Comas, Amazonas, distrito de Cercado de Lima, provincia de Tacna, departamento de Ucayali.", "entities": [[3, 10, "INMUEBLE"], [22, 56, "DIRECCION"], [70, 85, "DISTRITO"], [100, 105, "PROVINCIA"], [123, 130, "DEPARTAMENTO"]]}
+{"text": "El monto total del préstamo asciende a 6.800 dólares.", "entities": [[39, 52, "MONTO"]]}
+{"text": "Se efecutará un pago de S/. 9.600 mediante transferencia a 53540838663177 (Scotiabank).", "entities": [[24, 33, "MONTO"], [59, 73, "CUENTA_BANCARIA"], [75, 85, "BANCO"]]}
+{"text": "El plazo del contrato será de 60 meses contados a partir de la firma.", "entities": [[30, 38, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 20%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "Los  Olivos,  Perú  —  25  septiembre  2016.", "entities": [[0, 5, "CIUDAD"], [23, 39, "FECHA"]]}
+{"text": "En  caso  de  retraso,  se  impondrá  una  penalidad  equivalente  a  S/  350.00.", "entities": [[70, 74, "PENALIDAD"]]}
+{"text": "Hasta la fecha no se ha realizado ninguna modificación.", "entities": []}
+{"text": "Las  partes  fijan  como  precio  seis  mil  ochocientos  (USD  6.800.00)  dólares.", "entities": [[34, 45, "MONTO"]]}
+{"text": "El compareciente Santiago Meza Quispe, identificado con DNI 21699586, con domicilio en Pasaje Las Gardenias N° 4167, distrito de Comas, provincia de Huancayo, departamento de Ica.", "entities": [[17, 37, "PERSONA"], [60, 68, "DNI"], [87, 178, "DIRECCION"]]}
+{"text": "sur export tecnologías s.a.c., identificada con número de ruc 17522885158, con sede en mz. las gardenias 9449, cercado de lima, san martín.", "entities": [[0, 29, "EMPRESA"], [62, 73, "RUC"], [87, 138, "DIRECCION"]]}
+{"text": "Se trata de un oficina situado en Jirón Panamericana Norte 6125, El Agustino, Tumbes, en el distrito de Jesús María, provincia de Trujillo, departamento de Huancavelica.", "entities": [[15, 22, "INMUEBLE"], [34, 84, "DIRECCION"], [104, 115, "DISTRITO"], [130, 138, "PROVINCIA"], [156, 168, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de US$ 3.000.45.", "entities": [[31, 43, "MONTO"]]}
+{"text": "El pago se realizará por el monto de US$ 5.600.16 a la cuenta N° 158 328 182 6886 del banco Interbank.", "entities": [[37, 49, "MONTO"], [65, 81, "CUENTA_BANCARIA"], [92, 101, "BANCO"]]}
+{"text": "La vigencia del contrato es de 2 años, iniciando el día de su firma .", "entities": [[31, 37, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 5%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Pasco,  Perú  —  en  fecha  30  de  enero  de  2013.", "entities": [[0, 5, "CIUDAD"], [17, 45, "FECHA"]]}
+{"text": "El precio final asciende a 8.100.78 soles, que será pagado dentro de un plazo de 4 meses.", "entities": [[27, 41, "MONTO"], [81, 88, "PLAZO"]]}
+{"text": "Las partes se reúnen virtualmente sin indicar ciudad.", "entities": []}
+{"text": "El importe a pagar será de mil ochocientos (S/ 1.800.00) soles.", "entities": [[27, 42, "MONTO"]]}
+{"text": "Julián Martínez Vargas, identificado con DNI N° 90158144, con domicilio en Malecón Brasil 4712, Chorrillos, La Libertad.", "entities": [[0, 22, "PERSONA"], [48, 56, "DNI"], [75, 119, "DIRECCION"]]}
+{"text": "Grupo Alpha S.C.R.L., identificada con número de RUC 17968814353, con sede en Pasaje Panamericana Norte 8497, San Borja, Cusco, Cajamarca.", "entities": [[0, 20, "EMPRESA"], [53, 64, "RUC"], [78, 137, "DIRECCION"]]}
+{"text": "El señor Vanessa Salazar Ortiz, actuando en nombre de la empresa Proyectos Pacífico del Perú S.C.R.L., con RUC 10149135775.", "entities": [[9, 30, "PERSONA"], [65, 101, "EMPRESA"], [111, 122, "RUC"]]}
+{"text": "El local comercial ubicado en Psje. Javier Prado N° 5532, distrito de Pueblo Libre, provincia de Iquitos, departamento de Lima, distrito de San Juan de Lurigancho, provincia de Iquitos, departamento de Moquegua.", "entities": [[3, 18, "INMUEBLE"], [30, 126, "DIRECCION"], [140, 162, "DISTRITO"], [202, 210, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de 1.200.00 soles.", "entities": [[31, 45, "MONTO"]]}
+{"text": "Los pagos deberán hacerse en S/. 4.750.70 a la cuenta bancaria 427-8816-5803-92827 del BBVA.", "entities": [[29, 41, "MONTO"], [63, 82, "CUENTA_BANCARIA"], [87, 91, "BANCO"]]}
+{"text": "El presente contrato tendrá una duración de 5 meses desde la fecha de suscripción.", "entities": [[44, 51, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 12% .", "entities": [[43, 46, "INTERES"]]}
+{"text": "Moquegua, Perú — a los 9 días del mes de diciembre del año 2012.", "entities": [[0, 8, "CIUDAD"], [17, 63, "FECHA"]]}
+{"text": "La penalidad aplicable será de S/ 350.00 acumulativa por cada periodo incumplido.", "entities": [[31, 40, "PENALIDAD"]]}
+{"text": "Las partes se reúnen virtualmente, sin indicar ciudad.", "entities": []}
+{"text": "Las  partes  fijan  como  precio  ocho  mil  cien  (S/  8.100.00)  soles.", "entities": [[34, 45, "MONTO"]]}
+{"text": "El señor Luis Alberto Cabrera Paredes, con DNI N° 99041379, domiciliado en Mz. Panamericana Sur 7991, Magdalena del Mar, Lambayeque.", "entities": [[9, 37, "PERSONA"], [50, 58, "DNI"], [75, 131, "DIRECCION"]]}
+{"text": "La empresa Desarrollos Norte Industrial E.I.R.L., identificada con RUC N° 10388629127, con domicilio en Malecón Las Gardenias 739, Ate, Tacna, Ucayali.", "entities": [[11, 48, "EMPRESA"], [74, 85, "RUC"], [104, 150, "DIRECCION"]]}
+{"text": "Teresa Ancajima Ramírez, en representación de la empresa Norte Industrial Logística S.R.L., identificada con RUC 20314986430.", "entities": [[0, 23, "PERSONA"], [57, 90, "EMPRESA"], [113, 124, "RUC"]]}
+{"text": "Se trata de un almacén situado en Pasaje Las Gardenias N° 6090, distrito de Villa El Salvador, provincia de Piura, departamento de San Martín, en el distrito de Jesús María, provincia de Huancayo, departamento de Moquegua.", "entities": [[15, 22, "INMUEBLE"], [34, 141, "DIRECCION"], [161, 172, "DISTRITO"], [187, 195, "PROVINCIA"], [213, 221, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de 2.500.27 dólares.", "entities": [[31, 47, "MONTO"]]}
+{"text": "Los pagos deberán hacerse en 6.800.00 soles a la cuenta bancaria 7961143519066 del BCP.", "entities": [[29, 43, "MONTO"], [65, 78, "CUENTA_BANCARIA"], [83, 86, "BANCO"]]}
+{"text": "El plazo del contrato será de 30 días contados a partir de la firma.", "entities": [[30, 37, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 5%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Firmado en Huánuco, el a los 22 días del mes de junio del año 2020.", "entities": [[11, 18, "CIUDAD"], [23, 66, "FECHA"]]}
+{"text": "En caso de retraso, se impondrá una penalidad equivalente a 0.5% mensual.", "entities": [[60, 72, "PENALIDAD"]]}
+{"text": "Desde el inicio del contrato las partes acuerdan las condiciones.", "entities": []}
+{"text": "el importe a pagar será de cuatro mil doscientos (usd 4.200.00) dólares.", "entities": [[27, 48, "MONTO"]]}
+{"text": "El señor Andrés Fernández Vega, con DNI N° 35658804, domiciliado en Jirón La Marina 1623, La Molina, Arequipa.", "entities": [[9, 30, "PERSONA"], [43, 51, "DNI"], [68, 109, "DIRECCION"]]}
+{"text": "Tecnologías Norte Industrial S.C.R.L., con RUC 10395211179, y domicilio legal en Av. Las Orquídeas 8971, San Isidro, Junín.", "entities": [[0, 37, "EMPRESA"], [47, 58, "RUC"], [81, 122, "DIRECCION"]]}
+{"text": "Flor Valencia Díaz, quien representa a la empresa Perú Global Distribuciones E.I.R.L., registrada con RUC 17271875003.", "entities": [[0, 18, "PERSONA"], [50, 85, "EMPRESA"], [106, 117, "RUC"]]}
+{"text": "Se trata de un oficina situado en Psje. Petit Thouars 6663, Comas, Cajamarca, en el distrito de San Borja, provincia de Trujillo, departamento de Ayacucho.", "entities": [[15, 22, "INMUEBLE"], [34, 76, "DIRECCION"], [96, 105, "DISTRITO"], [120, 128, "PROVINCIA"], [146, 154, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de USD 3.750.00.", "entities": [[31, 43, "MONTO"]]}
+{"text": "Los pagos deberán hacerse en S/. 2.500.22 a la cuenta bancaria 717 545 588 4506 del Interbank.", "entities": [[29, 41, "MONTO"], [63, 79, "CUENTA_BANCARIA"], [84, 93, "BANCO"]]}
+{"text": "El presente contrato tendrá una duración de 36 meses desde la fecha de suscripción.", "entities": [[44, 52, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 3%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "En la ciudad de Ayacucho, a los 11 marzo 2000.", "entities": [[16, 24, "CIUDAD"], [32, 45, "FECHA"]]}
+{"text": "El precio final asciende a USD 2.000.85, que será pagado dentro de un plazo de 3 meses.", "entities": [[27, 39, "MONTO"], [79, 86, "PLAZO"]]}
+{"text": "Desde el inicio del contrato las partes acuerdan las condiciones.", "entities": []}
+{"text": "El monto total del contrato asciende a quinientos (USD 500.00) dólares.", "entities": [[39, 49, "MONTO"]]}
+{"text": "El compareciente Alfredo García Ramírez, identificado con DNI 55778487, con domicilio en Jr. Los Pinos 8935, Magdalena del Mar, Puno.", "entities": [[17, 39, "PERSONA"], [62, 70, "DNI"], [89, 132, "DIRECCION"]]}
+{"text": "Exportaciones Leigh del Perú S.A., con RUC 10547807740, y domicilio legal en Pasaje Las Orquídeas 4899, Villa El Salvador, Amazonas.", "entities": [[0, 33, "EMPRESA"], [43, 54, "RUC"], [77, 131, "DIRECCION"]]}
+{"text": "Paola lozano acosta, en reprseentación de la empresa transportes sur export s.c., identificada con ruc 10241797497.", "entities": [[0, 19, "PERSONA"], [53, 80, "EMPRESA"], [103, 114, "RUC"]]}
+{"text": "El  local  comercial  ubicado  en  Pasaje  La  Marina  8265,  Lince,  Iquitos,  Tacna,  distrito  de  San  Juan  de  Miraflores,  provincia  de  Arequipa,  departamento  de  Ucayali.", "entities": [[4, 11, "INMUEBLE"], [35, 78, "DIRECCION"], [102, 117, "DISTRITO"], [145, 153, "PROVINCIA"], [174, 181, "DEPARTAMENTO"]]}
+{"text": "La cantidad acordada para el contrato es de 9.300.00 soles.", "entities": [[44, 58, "MONTO"]]}
+{"text": "El pago se realizará por el monto de USD 4.200.00 a la cuenta N° 5208814743503 del banco Interbank.", "entities": [[37, 49, "MONTO"], [65, 78, "CUENTA_BANCARIA"], [89, 98, "BANCO"]]}
+{"text": "El plazo del contrato será de 30 días contados a partir de la firma.", "entities": [[30, 37, "PLAZO"]]}
+{"text": "El préstaom devengará un interés anual del 15%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "En la ciudad de Cercado de Lima, a los 16 marzo 2001.", "entities": [[16, 31, "CIUDAD"], [39, 52, "FECHA"]]}
+{"text": "Se esatblece una penalidad de 20% del monto total si la parte deudora no cumple con el pago de 10.400 dólares.", "entities": [[30, 49, "PENALIDAD"], [95, 109, "MONTO"]]}
+{"text": "Durante el plazo establecido, las partes cumplirán sus obligaciones.", "entities": []}
+{"text": "La suma acordada es de mil (S/. 1.000.00) soles.", "entities": [[23, 26, "MONTO"]]}
+{"text": "El compareciente Renato Campos Navarro, identificado con DNI 51181022, con domicilio en Av. Angamos 1853, Pueblo Libre, Trujillo, Ayacucho.", "entities": [[17, 38, "PERSONA"], [61, 69, "DNI"], [88, 138, "DIRECCION"]]}
+{"text": "La empresa Consultores Norte Industrial del Perú S.C., identificada con RUC N° 10586509480, con domicilio en Avenida Panamericana Sur 5079, Santiago de Surco, Trujillo, Madre de Dios.", "entities": [[11, 53, "EMPRESA"], [79, 90, "RUC"], [109, 182, "DIRECCION"]]}
+{"text": "Fernando Campos Núñez, quien representa a la empresa Costa Verde Proyectos S.C.R.L., registrada con RUC 10228685289.", "entities": [[0, 21, "PERSONA"], [53, 83, "EMPRESA"], [104, 115, "RUC"]]}
+{"text": "La cantidad acordada para el contrato es de S/. 7.400.45.", "entities": [[44, 56, "MONTO"]]}
+{"text": "el pago se realizará por el monto de 300 dólares a la cuenta n° 27919409610556 del banco scotiabank.", "entities": [[37, 48, "MONTO"], [64, 78, "CUENTA_BANCARIA"], [89, 99, "BANCO"]]}
+{"text": "El plazo del contrato será de 48 meses contados a partir de la firma.", "entities": [[30, 38, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 1%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Lince, a los 5 julio 2013.", "entities": [[0, 5, "CIUDAD"], [13, 25, "FECHA"]]}
+{"text": "El  precio  final  asciende  a  7.400.00  dólares,  que  será  pagado  dentro  de  un  plazo  de  48  meses.", "entities": [[32, 42, "MONTO"], [98, 102, "PLAZO"]]}
+{"text": "Durante el plazo establecido, las partes cumplirán sus obligaciones.", "entities": []}
+{"text": "Las  partes  fijan  como  precio  tres  mil  (USD  3.000.00)  dólares.", "entities": [[34, 40, "MONTO"]]}
+{"text": "María Fernanda Vásquez Ancajima, portador del DNI 40514770, con residencia en Psje. Angamos 8914, Jesús María, Moquegua.", "entities": [[0, 31, "PERSONA"], [50, 58, "DNI"], [78, 119, "DIRECCION"]]}
+{"text": "la empresa importaciones leigh del perú s.a.a., identificada con ruc n° 10164510463, con domicilio en pasaje los sauces 1731, san juan de miraflores, piura.", "entities": [[11, 46, "EMPRESA"], [72, 83, "RUC"], [102, 155, "DIRECCION"]]}
+{"text": "Gabriela Núñez Castro, quien representa a la empresa Omega Proyectos S.C.R.L., registrada con RUC 10460843256.", "entities": [[0, 21, "PERSONA"], [53, 77, "EMPRESA"], [98, 109, "RUC"]]}
+{"text": "El almacén ubicado en Jr. Angamos 2370, El Agustino, Tacna, San Martín, distrito de San Borja, provincia de Piura, departamento de Tacna.", "entities": [[3, 10, "INMUEBLE"], [22, 70, "DIRECCION"], [84, 93, "DISTRITO"], [108, 113, "PROVINCIA"]]}
+{"text": "El monto total del préstamo asciende a S/ 300.81.", "entities": [[39, 48, "MONTO"]]}
+{"text": "Los pagos deberán hacerse en US$ 10.700.91 a la cuenta bancaria 22099499939330 del BBVA.", "entities": [[29, 42, "MONTO"], [64, 78, "CUENTA_BANCARIA"], [83, 87, "BANCO"]]}
+{"text": "El presente contrato tendrá una duración de 48 meses desde la fecha de suscripción.", "entities": [[44, 52, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 12%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "Loreto Perú — 11-12-26.", "entities": [[0, 6, "CIUDAD"], [14, 22, "FECHA"]]}
+{"text": "Hasta la fecha no se ha realizado ninguna modificación.", "entities": []}
+{"text": "Las  partes  fijan  como  precio  doscientos  (S/.  200.00)  soles.", "entities": [[34, 44, "MONTO"]]}
+{"text": "Daniela García Ruiz, identificado con DNI N° 79371452, con domicilio en Avenida Brasil N° 1970, distrito de Independencia, provincia de Iquitos, departamento de Puno.", "entities": [[0, 19, "PERSONA"], [45, 53, "DNI"], [72, 165, "DIRECCION"]]}
+{"text": "Logística Leigh S.C., identificada con número de RUC 10064474212, con sede en Jirón Arequipa N° 4246, distrito de Miraflores, provincia de Iquitos, departamento de Loreto.", "entities": [[0, 20, "EMPRESA"], [53, 64, "RUC"], [78, 170, "DIRECCION"]]}
+{"text": "Carmen Pérez Jiménez, quien representa a la empresa Constructora Pacífico del Perú S.A., registrada con RUC 20020994510.", "entities": [[0, 20, "PERSONA"], [52, 87, "EMPRESA"], [108, 119, "RUC"]]}
+{"text": "Se trata de un departamento situado en Calle Petit Thouars N° 6138, distrito de La Molina, provincia de Arequipa, departamento de Ucayali, en el distrito de Ate, provincia de Arequipa, departamento de Huancavelica.", "entities": [[15, 27, "INMUEBLE"], [39, 137, "DIRECCION"], [157, 160, "DISTRITO"], [201, 213, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de S/ 5.600.00.", "entities": [[31, 42, "MONTO"]]}
+{"text": "Se efectuará un pago de 5.200 dólares mediante transferencia a 72934301071396 (Scotiabank).", "entities": [[24, 37, "MONTO"], [63, 77, "CUENTA_BANCARIA"], [79, 89, "BANCO"]]}
+{"text": "El presente contrato tendrá una duración de 60 días desde la fecha de suscripción.", "entities": [[44, 51, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 1%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Arequipa, Perú — 5 agosto 2003.", "entities": [[0, 8, "CIUDAD"], [17, 30, "FECHA"]]}
+{"text": "El arrendatario abonará S/ 1.800.81 cada mes pudiendo aplicarse un interés moratorio del 10%.", "entities": [[24, 35, "MONTO"], [89, 92, "INTERES"]]}
+{"text": "Durante el plazo establecido, las partes cumplirán sus obligaciones.", "entities": []}
+{"text": "Las partes fijan como precio mil ochocientos (USD 1.800.00) dólares.", "entities": [[29, 44, "MONTO"]]}
+{"text": "Ana María Valencia Jiménez, quien representa a la empresa Constructora Andes S.R.L., registrada con RUC 20016016629.", "entities": [[0, 26, "PERSONA"], [58, 83, "EMPRESA"], [104, 115, "RUC"]]}
+{"text": "Se trata de un departamento situado en Mz. Brasil 7564, San Juan de Lurigancho, Iquitos, Loreto, en el distrito de Los Olivos, provincia de Cusco, departamento de Piura.", "entities": [[15, 27, "INMUEBLE"], [39, 95, "DIRECCION"], [115, 125, "DISTRITO"], [140, 145, "PROVINCIA"], [163, 168, "DEPARTAMENTO"]]}
+{"text": "La cantidad acordada para el contrato es de S/ 3.250.00.", "entities": [[44, 55, "MONTO"]]}
+{"text": "Se efectuará un pago de 2.500 dólares mediante transferencia a 96393827615396 (Scotiabank).", "entities": [[24, 37, "MONTO"], [63, 77, "CUENTA_BANCARIA"], [79, 89, "BANCO"]]}
+{"text": "El plazo del contrato será de 2 años contados a partir de la firma.", "entities": [[30, 36, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 2%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Firmado en Ate, el 27/4/2000.", "entities": [[11, 14, "CIUDAD"], [19, 28, "FECHA"]]}
+{"text": "Ante el incumplimiento del plazo pactado de 36 meses, se impondrá una penalidad de S/ 100.00.", "entities": [[44, 52, "PLAZO"], [83, 92, "PENALIDAD"]]}
+{"text": "Desde el inicio del contarto las partes acuerdan las condiciones.", "entities": []}
+{"text": "Las partes fijan como precio cuatro mil doscientos (US$ 4.200.00) dólares.", "entities": [[29, 50, "MONTO"]]}
+{"text": "El compareciente Luis Miguel Díaz Díaz, identificado con DNI 01027621, con domicilio en Jr. Los Rosales 6913, Chorrillos, Huancayo, Piura.", "entities": [[17, 38, "PERSONA"], [61, 69, "DNI"], [88, 137, "DIRECCION"]]}
+{"text": "Proyectos Leigh del Perú S.A., identificada con número de RUC 20519712847, con sede en Manzana Brasil N° 8674, distrito de Villa El Salvador, provincia de Arequipa, departamento de Cusco.", "entities": [[0, 29, "EMPRESA"], [62, 73, "RUC"], [87, 186, "DIRECCION"]]}
+{"text": "Iván López Pérez, en representación de la empresa Norte Industrial Desarrollos S.A.A., identificada con RUC 10094940792.", "entities": [[0, 16, "PERSONA"], [50, 85, "EMPRESA"], [108, 119, "RUC"]]}
+{"text": "El departamento ubicado en Avenida Las Gardenias N° 2960, distrito de El Agustino, provincia de Cusco, departamento de San Martín, distrito de Lince, provincia de Cusco, departamento de Huánuco.", "entities": [[3, 15, "INMUEBLE"], [27, 129, "DIRECCION"], [143, 148, "DISTRITO"], [186, 193, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de 10.700 soles.", "entities": [[31, 43, "MONTO"]]}
+{"text": "La vigencia del contrato es de 60 meses, iniciando el día de su firma.", "entities": [[31, 39, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 12%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "San  Martín,  a  los  18/6/2006.", "entities": [[0, 5, "CIUDAD"], [22, 31, "FECHA"]]}
+{"text": "La parte deudora pagará S/ 800.00 en un periodo máximo de 4 meses, aplicándose un interés del 2%.", "entities": [[24, 33, "MONTO"], [58, 65, "PLAZO"], [94, 96, "INTERES"]]}
+{"text": "Desde el inicio del contrato las partes acuerdan las condiciones.", "entities": []}
+{"text": "El improte a pagar será de mil ochocientos (US$ 1.800.00) dólares.", "entities": [[27, 42, "MONTO"]]}
+{"text": "Inversiones Leigh S.C.R.L., con RUC 17776618306, y domicilio legal en Mz. Brasil 9393, Ate, Ica.", "entities": [[0, 26, "EMPRESA"], [36, 47, "RUC"], [70, 95, "DIRECCION"]]}
+{"text": "El señor Raúl López Salazar, actuanod en nombre de la empresa Leigh Logística S.C.R.L., con RUC 10571732030.", "entities": [[9, 27, "PERSONA"], [62, 86, "EMPRESA"], [96, 107, "RUC"]]}
+{"text": "El  importe  total  a  pagar  es  de  S/.  200.41.", "entities": [[38, 43, "MONTO"]]}
+{"text": "El pago se realizará por el monto de 9.300.00 soles a la cuenta N° 656-51982530-9-2 del banco BCP.", "entities": [[37, 51, "MONTO"], [67, 83, "CUENTA_BANCARIA"], [94, 97, "BANCO"]]}
+{"text": "el  plazo  del  contrato  será  de  45  días  contados  a  partir  de  la  firma.", "entities": [[36, 40, "PLAZO"]]}
+{"text": "El  préstamo  devengará  un  interés  anual  del  1%.", "entities": [[50, 52, "INTERES"]]}
+{"text": "En la ciudad de Villa María del Triunfo, a los 5/12/25.", "entities": [[16, 39, "CIUDAD"], [47, 54, "FECHA"]]}
+{"text": "El  precio  final  asciende  a  US$  3.750.00,  que  será  pagado  dentro  de  un  plazo  de  30  días.", "entities": [[32, 37, "MONTO"], [94, 98, "PLAZO"]]}
+{"text": "Hasta la fecha no se ha realizado ninguna modificación.", "entities": []}
+{"text": "La suma acordada es de ocho mil cien (USD 8.100.00) dólares.", "entities": [[23, 36, "MONTO"]]}
+{"text": "Juan Carlos Ortega Ruiz, portador del DNI 20781137, con residencia en Malecón Las Gardenias 5440, Breña, Tumbes.", "entities": [[0, 23, "PERSONA"], [42, 50, "DNI"], [70, 111, "DIRECCION"]]}
+{"text": "La empresa Soluciones Pacífico del Perú S.A.C., identificada con RUC N° 20265273543, con domicilio en Psje. Javier Prado 625, Independencia, Lima, Huánuco.", "entities": [[11, 46, "EMPRESA"], [72, 83, "RUC"], [102, 154, "DIRECCION"]]}
+{"text": "Héctor Condori Fernández quien representa a la empresa Sur Export Distribuciones S.C. registrada con RUC 20063356939.", "entities": [[0, 24, "PERSONA"], [55, 85, "EMPRESA"], [105, 116, "RUC"]]}
+{"text": "Se trata de un oficina situado en Mz. Angamos 1461, Ate, Tacna, en el distrito de Breña, provincia de Trujillo, departamento de Áncash.", "entities": [[15, 22, "INMUEBLE"], [34, 62, "DIRECCION"], [82, 87, "DISTRITO"], [102, 110, "PROVINCIA"], [128, 134, "DEPARTAMENTO"]]}
+{"text": "El monto total del préstamo asciende a 9.600.83 dólares.", "entities": [[39, 55, "MONTO"]]}
+{"text": "Se efectuará un pago de 9.600.00 dólares mediante transferencia a 649-89319508-5-01 (BCP).", "entities": [[24, 40, "MONTO"], [66, 83, "CUENTA_BANCARIA"], [85, 88, "BANCO"]]}
+{"text": "El plazo del contrato será de 4 meses contados a partir de la firma.", "entities": [[30, 37, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 5%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Ate, a los en fecha 12 de junio de 1999.", "entities": [[0, 3, "CIUDAD"], [11, 39, "FECHA"]]}
+{"text": "El arrendatario abonará 6.800.00 dólares cada mes, pudiendo aplicarse un interés moratorio del 2%.", "entities": [[24, 40, "MONTO"], [95, 97, "INTERES"]]}
+{"text": "Hasta la fecha no se ha realizado ninguna modificación.", "entities": []}
+{"text": "El monto total del contrato asciende a tres mil (US$ 3.000.00) dólares.", "entities": [[39, 47, "MONTO"]]}
+{"text": "Susana Navarro Vilca, portador del DNI 57988774, con residencia en Malecón Javier Prado N° 5121, distrito de Magdalena del Mar, provincia de Piura, departamento de Cusco .", "entities": [[0, 20, "PERSONA"], [39, 47, "DNI"], [67, 169, "DIRECCION"]]}
+{"text": "Constructora sierra azul e.i.r.l., identificada con número de ruc 10592745238, con sede en av. los rosales n° 5292, distrito de lince, provincia de cusco, departamento de junín.", "entities": [[0, 33, "EMPRESA"], [66, 77, "RUC"], [91, 176, "DIRECCION"]]}
+{"text": "carlos alberto montoya mendoza, en representación de la empresa exportaciones norte industrial s.r.l., identificada con ruc 17702814069.", "entities": [[0, 30, "PERSONA"], [64, 101, "EMPRESA"], [124, 135, "RUC"]]}
+{"text": "se trata de un oficina situado en alameda los rosales n° 1531, distrito de rímac, provincia de huancayo, departamento de callao, en el distrito de san juan de miraflores, provincia de tacna, departamento de apurímac.", "entities": [[15, 22, "INMUEBLE"], [34, 127, "DIRECCION"], [147, 169, "DISTRITO"], [184, 189, "PROVINCIA"], [207, 215, "DEPARTAMENTO"]]}
+{"text": "La cantidad acordada para el contrato es de S/ 1.500.67.", "entities": [[44, 55, "MONTO"]]}
+{"text": "Los pagos debreán hacerse en S/ 7.900.00 a la cuenta bancaria 7851961064628 del Interbank.", "entities": [[29, 40, "MONTO"], [62, 75, "CUENTA_BANCARIA"], [80, 89, "BANCO"]]}
+{"text": "El presente contrato tendrá una duración de 12 meses desde la fecha de suscripción .", "entities": [[44, 52, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 15%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "Apurímac, Perú — 16 mayo 2002.", "entities": [[0, 8, "CIUDAD"], [17, 29, "FECHA"]]}
+{"text": "La penalidad aplicable será de 20% del monto total, acumulativa por cada periodo incumplido.", "entities": [[31, 50, "PENALIDAD"]]}
+{"text": "Entre  las  partes  existe  un  acuerdo  previo.", "entities": []}
+{"text": "El importe a pagar será de quinientos (S/. 500.00) soles.", "entities": [[27, 37, "MONTO"]]}
+{"text": "carlos alberto salazar cárdenas, identificado con dni n° 76521328, con domicilio en jirón panamericana sur 3187, ate, moquegua.", "entities": [[0, 31, "PERSONA"], [57, 65, "DNI"], [84, 126, "DIRECCION"]]}
+{"text": "La empersa Proyectos Pacífico S.C., identificada con RUC N° 10223423216, con domicilio en Avenida Brasil 408, Pueblo Libre, Huancayo, Apurímac.", "entities": [[11, 34, "EMPRESA"], [60, 71, "RUC"], [90, 142, "DIRECCION"]]}
+{"text": "Se trata de un oficina situado en Psje. Los Pinos 9756, Magdalena del Mar, Iquitos, San Martín, en el distrito de Magdalena del Mar, provincia de Chiclayo, departamento de La Libertad.", "entities": [[15, 22, "INMUEBLE"], [34, 94, "DIRECCION"], [146, 154, "PROVINCIA"], [172, 183, "DEPARTAMENTO"]]}
+{"text": "El monto total del préstamo asciende a 500 soles.", "entities": [[39, 48, "MONTO"]]}
+{"text": "Los pagos deberán hacerse en USD 3.250.38 a la cuenta bancaria 317-52071678112 del Scotiabank.", "entities": [[29, 41, "MONTO"], [63, 78, "CUENTA_BANCARIA"], [83, 93, "BANCO"]]}
+{"text": "El plazo del contrato será de 24 meses contados a partir de la firma.", "entities": [[30, 38, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 8%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Ante el incumplimiento del plazo pactado de 24 meses, se impondrá una penalidad de 10% del monto total.", "entities": [[44, 52, "PLAZO"], [83, 102, "PENALIDAD"]]}
+{"text": "Entre las partes existe un acuerdo previo.", "entities": []}
+{"text": "Las partes fijan como precio doscientos (usd 200.00) dólares.", "entities": [[29, 39, "MONTO"]]}
+{"text": "Luisa Díaz Aguilar, portador del DNI 67197889, con residencia en Mz. Los Álamos N° 9311, distrito de Magdalena del Mar, provincia de Tacna, departamento de Apurímac.", "entities": [[0, 18, "PERSONA"], [37, 45, "DNI"], [65, 164, "DIRECCION"]]}
+{"text": "El  señor  José  Antonio  Peña  García,  actuando  en  nombre  de  la  empresa  Desarrollos  Perú  Global  E.I.R.L.,  con  RUC  17357852945.", "entities": [[11, 32, "PERSONA"], [80, 107, "EMPRESA"], [128, 139, "RUC"]]}
+{"text": "Se trata de un almacén situado en Avenida Las Gardenias 5618, Comas, Pasco, en el distrito de Pueblo Libre, provincia de Huancayo, departamento de Callao.", "entities": [[15, 22, "INMUEBLE"], [34, 74, "DIRECCION"], [94, 106, "DISTRITO"], [121, 129, "PROVINCIA"], [147, 153, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de 800 dólares .", "entities": [[31, 42, "MONTO"]]}
+{"text": "Se efectuará un pago de USD 800.94 mediante transferencia a 90835723246651 (Scotiabank).", "entities": [[24, 34, "MONTO"], [60, 74, "CUENTA_BANCARIA"], [76, 86, "BANCO"]]}
+{"text": "El  plazo  del  contrato  será  de  120  días  contados  a  partir  de  la  firma.", "entities": [[36, 41, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 1% .", "entities": [[43, 45, "INTERES"]]}
+{"text": "San Juan de Lurigancho, a los 16/12/1997.", "entities": [[0, 22, "CIUDAD"], [30, 40, "FECHA"]]}
+{"text": "La penalidad aplicable será de 10% del monto total, acumulativa por cada periodo incumplido.", "entities": [[31, 50, "PENALIDAD"]]}
+{"text": "Durante el plazo establecido, las partes cumplirán sus obligaciones.", "entities": []}
+{"text": "El importe a pagar será de mil ochocientos (US$ 1.800.00) dólares.", "entities": [[27, 42, "MONTO"]]}
+{"text": "El compareciente Paola Alvarado Vilca, identificado con DNI 25754090, con domicilio en Alameda Las Orquídeas 995, Independencia, Huánuco.", "entities": [[17, 37, "PERSONA"], [60, 68, "DNI"], [87, 136, "DIRECCION"]]}
+{"text": "El señor Luis Miguel Ruiz Acosta, actuando en nombre de la empresa Pacífico Inversiones S.A.A., con RUC 17112382965.", "entities": [[9, 32, "PERSONA"], [67, 94, "EMPRESA"], [104, 115, "RUC"]]}
+{"text": "El  casa  ubicado  en  Av.  Arequipa  N°  9250,  distrito  de  Villa  María  del  Triunfo,  provincia  de  Trujillo,  departamento  de  Arequipa,  distrito  de  Jesús  María,  provincia  de  Piura,  departamento  de  Tacna.", "entities": [[4, 8, "INMUEBLE"], [23, 118, "DIRECCION"], [161, 168, "DISTRITO"], [191, 196, "PROVINCIA"], [217, 222, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de 5.200.00 dólares.", "entities": [[31, 47, "MONTO"]]}
+{"text": "Se  efectuará  un  pago  de  S/.  7.900  mediante  transferencia  a  3436262044397359  (BBVA).", "entities": [[29, 34, "MONTO"], [69, 85, "CUENTA_BANCARIA"], [88, 92, "BANCO"]]}
+{"text": "La vigencia del contrato es de 48 meses, iniciando el día de su firma.", "entities": [[31, 39, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 15%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "Arequipa, perú — 17 de mayo de 1995.", "entities": [[0, 8, "CIUDAD"], [17, 35, "FECHA"]]}
+{"text": "Las  partes  acuerdan  un  monto  de  S/.  3.750  sujeto  a  una  penalidad  de  S/  350.00  en  caso  de  incumplimiento.", "entities": [[38, 43, "MONTO"]]}
+{"text": "Durante el plazo establecido, las partes cumplirán sus obligaciones.", "entities": []}
+{"text": "La suma acrodada es de mil (US$ 1.000.00) dólares.", "entities": [[23, 26, "MONTO"]]}
+{"text": "El señor Ricardo León Palacios, con DNI N° 61707587, domiciliado en Mz. Los Álamos 1943, San Borja, Arequipa, Junín.", "entities": [[9, 30, "PERSONA"], [43, 51, "DNI"], [68, 115, "DIRECCION"]]}
+{"text": "Sur export constructora s.a.a., con ruc 17150416591, y domicilio legal en psje. javier prado 573, santiago de surco, tacna.", "entities": [[0, 30, "EMPRESA"], [40, 51, "RUC"], [74, 122, "DIRECCION"]]}
+{"text": "Gabriela Meza Tello, en representación de la empresa Servicios Sierra Azul del Perú S.A., identificada con RUC 17616423610.", "entities": [[0, 19, "PERSONA"], [53, 88, "EMPRESA"], [111, 122, "RUC"]]}
+{"text": "Se  trata  de  un  local  comercial  situado  en  Alameda  Brasil  N°  6120,  distrito  de  Rímac,  provincia  de  Trujillo,  departamento  de  Loreto,  en  el  distrito  de  La  Molina,  provincia  de  Iquitos,  departamento  de  Huánuco.", "entities": [[19, 26, "INMUEBLE"], [50, 138, "DIRECCION"], [203, 210, "PROVINCIA"], [231, 238, "DEPARTAMENTO"]]}
+{"text": "La cantidad acordada para el contrato es de 4.200 soles.", "entities": [[44, 55, "MONTO"]]}
+{"text": "Se efectuará un pago de 1.500.00 dólares mediante transferencia a 9081081866179 (Interbank).", "entities": [[24, 40, "MONTO"], [66, 79, "CUENTA_BANCARIA"], [81, 90, "BANCO"]]}
+{"text": "El  presente  contrato  tendrá  una  duración  de  3  meses  desde  la  fecha  de  suscripción.", "entities": [[51, 54, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 15%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "Tumbes a los 4/11/2011.", "entities": [[0, 6, "CIUDAD"], [13, 22, "FECHA"]]}
+{"text": "La parte deudora pagará usd 7.900.87 en un periodo máximo de 36 meses aplicándose un interés del 12%.", "entities": [[24, 36, "MONTO"], [61, 69, "PLAZO"], [97, 100, "INTERES"]]}
+{"text": "Hasta la fecha no se ha realizado ninguna modificación.", "entities": []}
+{"text": "La suma acordada es de trescientos cincuenta (US$ 350.00) dólares.", "entities": [[23, 44, "MONTO"]]}
+{"text": "María  Peña  Jiménez,  portador  del  DNI  34960501,  con  residencia  en  Alameda  Panamericana  Sur  7174,  Breña,  Tumbes.", "entities": [[0, 13, "PERSONA"], [43, 51, "DNI"], [75, 118, "DIRECCION"]]}
+{"text": "Leigh Inversiones S.A.A., identificada con número de RUC 17671795760, con sede en Jr. La Marina 3249, Pueblo Libre, Chiclayo, Lima.", "entities": [[0, 24, "EMPRESA"], [57, 68, "RUC"], [82, 130, "DIRECCION"]]}
+{"text": "Iván León Reyes, en representación de la empresa Soluciones Pachacamac S.C.R.L., identificada con RUC 17341722329.", "entities": [[0, 15, "PERSONA"], [49, 79, "EMPRESA"], [102, 113, "RUC"]]}
+{"text": "El almacén ubicado en Av. Las Orquídeas 1143, San Juan de Miraflores, Ayacucho, distrito de Los Olivos, provincia de Arequipa, departamento de Moquegua.", "entities": [[3, 10, "INMUEBLE"], [22, 78, "DIRECCION"], [92, 102, "DISTRITO"], [117, 125, "PROVINCIA"], [143, 151, "DEPARTAMENTO"]]}
+{"text": "La cantidad acordada para el contrato es de 10.400.29 dólares.", "entities": [[44, 61, "MONTO"]]}
+{"text": "Se efectuará un pago de S/ 350.00 mediante transferencia a 524-78712552-1-3 (BCP).", "entities": [[24, 33, "MONTO"], [59, 75, "CUENTA_BANCARIA"], [77, 80, "BANCO"]]}
+{"text": "El presente contrato tendrá una duración de 6 meses desde la fecha de suscripción.", "entities": [[44, 51, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 5%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "San  Martín,  a  los  15/1/2018.", "entities": [[0, 5, "CIUDAD"], [22, 31, "FECHA"]]}
+{"text": "Se establece una penalidad de 10% del monto total si la parte deudora no cumple con el pago de 6.800.00 dólares.", "entities": [[30, 49, "PENALIDAD"], [95, 111, "MONTO"]]}
+{"text": "Durante el plazo establecido, las partes cumplirán sus obligaciones.", "entities": []}
+{"text": "El  monto  total  del  contrato  asciende  a  cuatro  mil  doscientos  (S/.  4.200.00)  soles.", "entities": [[46, 59, "MONTO"]]}
+{"text": "Carlos Alberto Aguilar Cabrera, portador del DNI 52008943, con residencia en Calle Los Pinos 7026, Rímac, Arequipa, Tumbes.", "entities": [[0, 30, "PERSONA"], [49, 57, "DNI"], [77, 122, "DIRECCION"]]}
+{"text": "La  empresa  Exportaciones  Alpha  del  Perú  S.C.R.L.,  identificada  con  RUC  N°  17268315893,  con  domicilio  en  Psje.  Los  Álamos  1705,  San  Borja,  Huancayo,  Lambayeque.", "entities": [[13, 46, "EMPRESA"], [85, 96, "RUC"], [119, 170, "DIRECCION"]]}
+{"text": "Sofía Acosta Lozano, quien representa a la empresa Representaciones Sierra Azul S.A.A., registrada con RUC 20728813770.", "entities": [[0, 19, "PERSONA"], [51, 86, "EMPRESA"], [107, 118, "RUC"]]}
+{"text": "El monto total del préstamo asciende a 3.250 soles.", "entities": [[39, 50, "MONTO"]]}
+{"text": "Los pagos deberán hacerse en USD 8.500.89 a la cuenta bancaria 580-74120948181 del Scotiabank.", "entities": [[29, 41, "MONTO"], [63, 78, "CUENTA_BANCARIA"], [83, 93, "BANCO"]]}
+{"text": "El plazo del contrato será de 30 días contados a partir de la firma.", "entities": [[30, 37, "PLAZO"]]}
+{"text": "El  préstamo  devengará  un  interés  anual  del  15%.", "entities": [[50, 53, "INTERES"]]}
+{"text": "Jesús María, Perú — 14 marzo 2022.", "entities": [[0, 11, "CIUDAD"], [20, 33, "FECHA"]]}
+{"text": "El monto total del presente contrato es de 300 soles, el cual deberá ser cancelado en un plazo de 24 meses.", "entities": [[43, 52, "MONTO"], [98, 106, "PLAZO"]]}
+{"text": "Desde  el  inicio  del  contrato  las  partes  acuerdan  las  condiciones.", "entities": []}
+{"text": "El importe a pagar será de quinientos (USD 500.00) dólares.", "entities": [[27, 37, "MONTO"]]}
+{"text": "el señor pilar vega sánchez, con dni n° 38249671, domiciliado en alameda los sauces 3433, san borja, chiclayo, moquegua.", "entities": [[9, 27, "PERSONA"], [40, 48, "DNI"], [65, 119, "DIRECCION"]]}
+{"text": "Importaciones Costa Verde del Perú S.R.L., identificada con número de RUC 20539840289, con sede en Avenida La Marina 1569, La Molina, Áncash.", "entities": [[0, 41, "EMPRESA"], [74, 85, "RUC"], [99, 140, "DIRECCION"]]}
+{"text": "Vanessa  Vargas  León,  quien  representa  a  la  empresa  Pachacamac  Desarrollos  S.R.L.,  registrada  con  RUC  10209700268.", "entities": [[0, 17, "PERSONA"], [59, 84, "EMPRESA"], [115, 126, "RUC"]]}
+{"text": "La cantidda acordada para el contrato es de S/. 5.600.", "entities": [[44, 53, "MONTO"]]}
+{"text": "los pagos deberán hacerse en usd 2.500 a la cuenta bancaria 9992192124938430 del bbva.", "entities": [[29, 38, "MONTO"], [60, 76, "CUENTA_BANCARIA"], [81, 85, "BANCO"]]}
+{"text": "El presente contrato tendrá una duración de 45 días desde la fecha de suscripción.", "entities": [[44, 51, "PLAZO"]]}
+{"text": "El prsétamo devengará un interés anual del 1%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Jesús María, Perú — 26-10-00.", "entities": [[0, 11, "CIUDAD"], [20, 28, "FECHA"]]}
+{"text": "La penalidad aplicable será de S/ 200.00, acumulativa por cada periodo incumplido.", "entities": [[31, 40, "PENALIDAD"]]}
+{"text": "Cnoforme a lo pactado, el contrato entra en vigencia inmediatamente.", "entities": []}
+{"text": "La  suma  acordada  es  de  cuatro  mil  doscientos  (USD  4.200.00)  dólares.", "entities": [[28, 41, "MONTO"]]}
+{"text": "La empresa Alpha Proyectos S.A.A., identificada con RUC N° 10320024968, con domicilio en Alameda Las Orquídeas 5961, San Juan de Lurigancho, Tacna, Ucayali.", "entities": [[11, 33, "EMPRESA"], [59, 70, "RUC"], [89, 155, "DIRECCION"]]}
+{"text": "José Quispe Ticona, en representación de la empresa Lima Norte Tecnologías S.C.R.L., identificada con RUC 10779599594.", "entities": [[0, 18, "PERSONA"], [52, 83, "EMPRESA"], [106, 117, "RUC"]]}
+{"text": "El local comercial ubicado en Pasaje Angamos 6658, Magdalena del Mar, Lima, Junín, distrito de Santiago de Surco, provincia de Chiclayo, departamento de Amazonas.", "entities": [[3, 18, "INMUEBLE"], [30, 81, "DIRECCION"], [95, 112, "DISTRITO"], [127, 135, "PROVINCIA"], [153, 161, "DEPARTAMENTO"]]}
+{"text": "la cantidad acordada para el contrato es de s/. 800.", "entities": [[44, 51, "MONTO"]]}
+{"text": "El pago se realizará por el monto de S/. 10.700.00 a la cuenta N° 34735528961122 del banco BCP.", "entities": [[37, 50, "MONTO"], [66, 80, "CUENTA_BANCARIA"], [91, 94, "BANCO"]]}
+{"text": "La vigencia del contrato es de 4 meses, iniciando el día de su firma.", "entities": [[31, 38, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 20%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "Ayacucho, Perú — en fecha 13 de septiembre de 2005.", "entities": [[0, 8, "CIUDAD"], [17, 50, "FECHA"]]}
+{"text": "En caso de retraso, se impondrá una penalidad equivalente a S/ 500.00.", "entities": [[60, 69, "PENALIDAD"]]}
+{"text": "Desde el inicio del contrato las partes acuerdan las condiciones.", "entities": []}
+{"text": "las partes fijan como precio dos mil quinientos (us$ 2.500.00) dólares.", "entities": [[29, 47, "MONTO"]]}
+{"text": "José Luis Salazar Ticona, portador del DNI 88814311, con residencia en Avenida Petit Thouars 727, Ate, Trujillo, Ica.", "entities": [[0, 24, "PERSONA"], [43, 51, "DNI"], [71, 116, "DIRECCION"]]}
+{"text": "Sierra Azul Importaciones S.A., identificada con número de RUC 20690782633, con sede en Jirón Los Álamos N° 3929, distrito de Rímac, provincia de Tacna, departamento de Ucayali.", "entities": [[0, 30, "EMPRESA"], [63, 74, "RUC"], [88, 176, "DIRECCION"]]}
+{"text": "El  casa  ubicado  en  Mz.  Brasil  N°  5487,  distrito  de  El  Agustino,  provincia  de  Iquitos,  departamento  de  Puno,  distrito  de  Santiago  de  Surco,  provincia  de  Cusco,  departamento  de  Ayacucho.", "entities": [[4, 8, "INMUEBLE"], [23, 101, "DIRECCION"], [140, 154, "DISTRITO"], [177, 182, "PROVINCIA"], [203, 211, "DEPARTAMENTO"]]}
+{"text": "La  cantidad  acordada  para  el  contrato  es  de  1.500.00  soles.", "entities": [[52, 62, "MONTO"]]}
+{"text": "El pago se realizará por el monto de USD 350.26 a la cuenta N° 323-46729949-3-87 del banco BCP.", "entities": [[37, 47, "MONTO"], [63, 80, "CUENTA_BANCARIA"], [91, 94, "BANCO"]]}
+{"text": "El presente contrato tendrá una duración de 2 años desde la fecha de suscripción.", "entities": [[44, 50, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 8%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Lince Perú — 30-7-2024.", "entities": [[0, 5, "CIUDAD"], [13, 22, "FECHA"]]}
+{"text": "La parte deudora pagará 6.800.18 dólares en un periodo máximo de 5 años, aplicándose un interés del 2%.", "entities": [[24, 40, "MONTO"], [65, 71, "PLAZO"], [100, 102, "INTERES"]]}
+{"text": "Desde el inicio del contrato las partes acuerdan las condiciones.", "entities": []}
+{"text": "El monto total del contrato asciende a mil doscientos (USD 1.200.00) dólares.", "entities": [[39, 53, "MONTO"]]}
+{"text": "fernando león escobar, identificado con dni n° 27422091, con domicilio en jr. la marina 2134, ate, huancayo, cajamarca.", "entities": [[0, 21, "PERSONA"], [47, 55, "DNI"], [74, 118, "DIRECCION"]]}
+{"text": "La empresa Exportaciones Norte Industrial del Perú S.A., identificada con RUC N° 10063353310, con domicilio en Pasaje Arequipa 338, San Juan de Miraflores, San Martín.", "entities": [[11, 55, "EMPRESA"], [81, 92, "RUC"], [111, 166, "DIRECCION"]]}
+{"text": "El señor José Carlos Herrera Cortez, actuando en nombre de la empresa Tecnologías Costa Verde S.A.C., con RUC 20520650637.", "entities": [[9, 35, "PERSONA"], [70, 100, "EMPRESA"], [110, 121, "RUC"]]}
+{"text": "El almacén ubicado en Jr. La Marina 1652, Villa El Salvador, Puno, distrito de La Molina, provincia de Cusco, departamento de Ica.", "entities": [[3, 10, "INMUEBLE"], [22, 65, "DIRECCION"], [79, 88, "DISTRITO"], [103, 108, "PROVINCIA"], [126, 129, "DEPARTAMENTO"]]}
+{"text": "El importe total a pagar es de 5.600 soles.", "entities": [[31, 42, "MONTO"]]}
+{"text": "el pago se realizará por el monto de s/ 7.900.00 a la cuenta n° 7432630397524 del banco interbank.", "entities": [[37, 48, "MONTO"], [64, 77, "CUENTA_BANCARIA"], [88, 97, "BANCO"]]}
+{"text": "El presente contrato tendrá una duración de 24 meses desde la fecha de suscripción.", "entities": [[44, 52, "PLAZO"]]}
+{"text": "el préstamo devengará un interés anual del 5%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Firmado  en  Ayacucho,  el  21-1-07.", "entities": [[13, 21, "CIUDAD"], [28, 35, "FECHA"]]}
+{"text": "Las partes acuerdan un monto de 7.900 soles, sujeto a una penalidad de S/ 500.00 en caso de incumplimiento.", "entities": [[32, 43, "MONTO"], [71, 80, "PENALIDAD"]]}
+{"text": "Entre las partes existe un acuerdo previo.", "entities": []}
+{"text": "Las partes fijan como precio ocho mil cien (S/. 8.100.00) soles.", "entities": [[29, 42, "MONTO"]]}
+{"text": "Flor Palacios Salazar, portador del DNI 68971527, con residencia en Jirón Javier Prado 3206, Miraflores, Madre de Dios.", "entities": [[0, 21, "PERSONA"], [40, 48, "DNI"], [68, 118, "DIRECCION"]]}
+{"text": "Andes Logística E.I.R.L., identificada con número de RUC 20587506633, con sede en Mz. Arequipa 6021, Villa María del Triunfo, Tacna.", "entities": [[0, 24, "EMPRESA"], [57, 68, "RUC"], [82, 131, "DIRECCION"]]}
+{"text": "El señor José Luis Navarro León actuando en nombre de la empresa Costa Verde Consultores E.I.R.L. con RUC 20488694611.", "entities": [[9, 31, "PERSONA"], [65, 97, "EMPRESA"], [106, 117, "RUC"]]}
+{"text": "El ipmorte total a pagar es de USD 8.500.", "entities": [[31, 40, "MONTO"]]}
+{"text": "Se efectuará un pago de 5.200 soles mediante transferencia a 409-01380698-4-7 (BCP).", "entities": [[24, 35, "MONTO"], [61, 77, "CUENTA_BANCARIA"], [79, 82, "BANCO"]]}
+{"text": "La vigencai del contrato es de 36 meses, iniciando el día de su firma.", "entities": [[31, 39, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 12%.", "entities": [[43, 46, "INTERES"]]}
+{"text": "Firmado  en  Santiago  de  Surco,  el  a  los  15  días  del  mes  de  junio  del  año  2010.", "entities": [[8, 47, "FECHA"]]}
+{"text": "Se establece una penalidad de S/ 200.00 si la parte deudora no cumple con el pago de USD 8.500.51.", "entities": [[30, 39, "PENALIDAD"], [85, 97, "MONTO"]]}
+{"text": "Las partes se reúnen virtualmente, sin indicar ciudad.", "entities": []}
+{"text": "Las partes fijan como precio nueve mil trescientos (S/ 9.300.00) soles.", "entities": [[29, 50, "MONTO"]]}
+{"text": "El compareciente Patricia Ortega Jiménez, identificado con DNI 33211602, con domicilio en Psje. Panamericana Norte N° 6383, distrito de Comas, provincia de Trujillo, departamento de Tumbes.", "entities": [[17, 40, "PERSONA"], [63, 71, "DNI"], [90, 188, "DIRECCION"]]}
+{"text": "Omar Lozano Herrera, en representación de la empresa Proyectos Amazonía S.C.R.L., identificada con RUC 17752437729.", "entities": [[0, 19, "PERSONA"], [53, 80, "EMPRESA"], [103, 114, "RUC"]]}
+{"text": "El oficina ubicado en Av. Las Orquídeas 5558, San Borja, Trujillo, Tumbes, distrito de Independencia, provincia de Lima, departamento de Ucayali.", "entities": [[3, 10, "INMUEBLE"], [22, 73, "DIRECCION"], [87, 100, "DISTRITO"], [115, 119, "PROVINCIA"], [137, 144, "DEPARTAMENTO"]]}
+{"text": "La cantidad acordada para el contrato es de US$ 150.", "entities": [[44, 51, "MONTO"]]}
+{"text": "El pago se realizará por el monto de USD 800.99 a la cuenta N° 9047292774233 del banco Interbank.", "entities": [[37, 47, "MONTO"], [63, 76, "CUENTA_BANCARIA"], [87, 96, "BANCO"]]}
+{"text": "El presente contrato tendrá una duración de 120 días desde la fecha de suscripción.", "entities": [[44, 52, "PLAZO"]]}
+{"text": "El préstamo devengará un interés anual del 3%.", "entities": [[43, 45, "INTERES"]]}
+{"text": "Trujillo, Perú — 2-4-20.", "entities": [[0, 8, "CIUDAD"], [17, 23, "FECHA"]]}
+{"text": "El monto total del presetne contrato es de 8.500.95 dólares el cual deberá ser cancelado en un plazo de 6 meses.", "entities": [[43, 59, "MONTO"], [104, 111, "PLAZO"]]}
+{"text": "Conforme a lo pactado, el contrato entra en vigencia inmediatamente.", "entities": []}
+{"text": "El monto total del contrato asciende a cinco mil seiscientos (USD 5.600.00) dólares.", "entities": [[39, 60, "MONTO"]]}
+{"text": "El compareciente Pilar Vilca Mamani, identificado con DNI 87189813, con domicilio en Alameda Panamericana Norte 2022, Magdalena del Mar, Amazonas.", "entities": [[17, 35, "PERSONA"], [58, 66, "DNI"], [85, 145, "DIRECCION"]]}
+{"text": "Servicios  Andes  S.A.,  identificada  con  número  de  RUC  10408487297,  con  sede  en  Psje.  Los  Sauces  5869,  Villa  El  Salvador,  Tacna,  Madre  de  Dios.", "entities": [[0, 18, "EMPRESA"], [61, 72, "RUC"], [90, 152, "DIRECCION"]]}
+{"text": "Renato Peña Romero, quien representa a la empresa Importaciones Alpha del Perú S.A.A., registrada con RUC 10671462831.", "entities": [[0, 18, "PERSONA"], [50, 85, "EMPRESA"], [106, 117, "RUC"]]}
+{"text": "El oficina ubicado en Av. Las Gardenias 4155, Santiago de Surco, Ayacucho, distrito de Barranco, provincia de Tacna, departamento de Lambayeque.", "entities": [[3, 10, "INMUEBLE"], [22, 73, "DIRECCION"], [87, 95, "DISTRITO"], [110, 115, "PROVINCIA"], [133, 143, "DEPARTAMENTO"]]}

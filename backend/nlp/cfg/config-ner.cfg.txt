@@ -1,0 +1,49 @@
+
+[paths]
+train = training_data/train.spacy
+dev = training_data/dev.spacy
+vectors = "es_core_news_md"
+
+[system]
+seed = 42
+
+[nlp]
+lang = "es"
+pipeline = ["tok2vec","ner"]
+batch_size = 128
+
+[components]
+
+[components.tok2vec]
+factory = "tok2vec"
+
+[components.ner]
+factory = "ner"
+
+[training]
+train_corpus = "corpora.train"
+dev_corpus = "corpora.dev"
+max_epochs = 50
+patience = 8
+eval_frequency = 2000
+dropout = 0.3
+accumulate_gradient = 2
+
+[training.optimizer]
+@optimizers = "Adam.v1"
+learn_rate = 0.001
+L2 = 0.0
+
+[corpora]
+
+[corpora.train]
+@readers = "spacy.Corpus.v1"
+path = ${paths.train}
+
+[corpora.dev]
+@readers = "spacy.Corpus.v1"
+path = ${paths.dev}
+
+[initialize]
+vectors = ${paths.vectors}
+init_tok2vec = ${paths.vectors}
